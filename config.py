@@ -1,0 +1,2 @@
+DEFAULT_REGION = "IL"
+SOLO_ONLY = True
